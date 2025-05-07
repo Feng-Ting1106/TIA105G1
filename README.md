@@ -6,25 +6,24 @@
 
 ---
 
-## 🔧 負責功能
+##  負責功能
 
 我所負責並實作的功能包含：
 
 - 會員寵物檢視、刪除、新增、修改
 - 訂單預約流程系統
 - 訂單結帳系統
-- ECPay 全方位支付 API 串接
+- ECPay 全方位金流 API 串接
 - Google Maps API 串接
 
 
-## 🛠️ 技術架構
+##  技術架構
 
 - Java 17
 - Spring Boot
 - Spring Data JPA
 - Spring MVC
 - HTML / CSS / JavaScript
-- AJAX
 - RESTful API 設計
 - Maven 套件管理
   
