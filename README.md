@@ -24,6 +24,7 @@
 - Spring Data JPA
 - Spring MVC
 - HTML / CSS / JavaScript
+- Fetch API（模擬前後端分離資料交換）
 - RESTful API 設計
 - Maven 套件管理
   
